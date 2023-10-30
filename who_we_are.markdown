@@ -37,6 +37,16 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 
 “Hi! I’m a PhD student interested in space-based imaging, machine learning, and spacecraft autonomy, navigation, and control. I love rock climbing, hiking, and the outdoors. I also really enjoy cooking and baking with my fiancée. I joined dREFS because I’m passionate about grad student health and wellbeing. I’m here to listen and help support other grad students through stress, anxiety, burnout, or any other problems you’re experiencing inside of or outside of MIT!”
 
+### Myrella Cabral
+<img style="float: right;" hspace="20" vspace="20" src="../images/myrella.jpg" width="350" alt="Myrella Cabral" title="Myrella Cabral">
+
+* 2nd year as an AeroAstro grad student and 1st year in the Hypersonic Research Lab 
+* Hometown: Recife, PE, Brazil
+* Contact: [myrella@mit.edu](mailto:myrella@mit.edu)
+* Languages: English, Portuguese
+
+"Hi! I’m a graduate student in AeroAstro working on Aerothermoelasticity in Hypersonic flow. I firmly believe that we all should contribute to create an atmosphere of respect and cooperation/collaboration. As a dREFS, I’m here to listen and support other MIT graduate students."
+
 ### Alex Miller
 <img style="float: right;" hspace="20" vspace="20" src="../images/asmiller.png" width="350" height="300" title="Alex Miller">
 
@@ -59,7 +69,7 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 “Hello hello hello! I am a PhD student interested in graph neural networks and game theoretic design for space traffic management. I love trail running, ice climbing, and going to drag shows. I joined dREFS because I’m passionate about student wellbeing, and I believe everyone should have the tools and support they need to succeed in graduate school.  My path to my current advisor was a little rocky and nontraditional, so I’m happy to chat about advising issues and what it’s like to switch advisors. As a dREFS, I’m here to listen and support other graduate students through any problems that you’re dealing with at MIT!”
 
 ### Andrew Fishberg
-<img style="float: right;" hspace="20" src="../images/astronaut.png" width="350" alt="Andrew Fishberg" title="Andrew Fishberg">
+<img style="float: right;" hspace="20" src="../images/fishberg.jpg" width="350" alt="Andrew Fishberg" title="Andrew Fishberg">
 
 * Ph.D. student in the Aerospace Controls Lab (ACL)
 * Hometown: Freehold, New Jersey
