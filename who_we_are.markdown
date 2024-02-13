@@ -67,6 +67,17 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 
 “Hello everyone, I am Heekun, 1st year PhD student at ESL and I am interested in every topic regarding space, systems, and optimization. I am a person of mind and hand, mind for the PhD studies, and hands for many hobbies. Beside research, I am a jazz/blues guitarist with 10+ years of band experience, a sweater knitter, and also a liquid (water, tea, coffee, beer, wine, whatever liquid) enthusiast. I would be happy to share my experiences as a (late) millennial, as a struggling graduate student, and as an international in US.”
 
+### Polly Harrington 
+<img style="float: right;" hspace="20" vspace="10" src="../images/ph1.jpg" width="350" alt="Polly Harrington" title="Polly Harrington">
+
+* 2nd year in the Engineering Systems Laboratory
+* Hometown: Seattle, WA 
+* Contact: [ph1@mit.edu](mailto:ph1@mit.edu)
+* Languages: English, Spanish (conversational)
+
+"Polly Harrington is a student in ESL researching system safety (currently looking at healthcare safety). Outside of research, Polly is a member of the MIT curling team (we’re always looking for new curlers :)) and does far too many crafts (embroidery/sewing/knitting/etc.). I want to help ensure grad students enjoy their time at MIT and am always happy to talk!"
+
+
 ### Alex Miller
 <img style="float: right;" hspace="20" vspace="20" src="../images/asmiller.png" width="350" height="300" title="Alex Miller">
 
