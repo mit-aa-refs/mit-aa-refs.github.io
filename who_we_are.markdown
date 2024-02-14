@@ -118,3 +118,35 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 * Languages: English
 
 “Hi everyone! My name is Ryan and I’m a fifth-year graduate student in the AeroAstro department being advised by Prof. Jeff Hoffman. I work in the Engineering Systems Lab and am also a Draper Scholar. I currently serve as a Co-President of the Graduate Association of Aeronautics and Astronautics (GA^3) and Chair of the GSC Committee on Academics, Research, and Careers (ARC).”
+
+### Ryann Hee 
+<img style="float: right;" hspace="20" src="../images/ryannhee.jpg" width="350" alt="Ryann Hee" title="Ryann Hee">
+
+* 3rd year in the Human Systems Lab
+* Hometown: Fort Bragg, CA 
+* Contact: [ryannhee@mit.edu](mailto:ryannhee@mit.edu)
+* Languages: English
+
+“Ryann is a student in the HSL as well as a Draper Scholar currently working on miniaturized power conversion technology for space-based applications. Outside of lab, Ryann volunteers as an EMT for MIT EMS and enjoys soccer, climbing, and just about anything outdoors. She has experience switching advisors, changing research topics, and navigating the various grad resources on campus. She is passionate about helping others and wants AeroAstro to be a welcoming and enjoyable experience for the community.”
+
+### Sunbochen Tang 
+<img style="float: right;" hspace="20" vspace="40" src="../images/tangsun.jpg" width="350" alt="Sunbochen Tang" title="Sunbochen Tang">
+
+* 3rd year in the Azizan Lab (LIDS/MECHE)
+* Hometown: Wuhan, China
+* Contact: [tangsun@mit.edu](mailto:tangsun@mit.edu)
+* Languages: English, Mandarin
+
+“Hi! I’m a 3rd year AeroAstro Ph.D. student in the Azizan lab (affiliated with LIDS/MECHE). My research focuses on developing trustworthy autonomous systems, with broader interests in control theory, optimization and learning. Outside of the lab, I enjoy walking around the city with my camera and cafe hopping, I also recently started learning to play the piano and to sail. I have experiences switching advisors, working with advisors outside AeroAstro, and changing research topics, from an international student perspective. Feel free to reach me via email, I am always happy to chat about grad school experiences or anything you have in mind!”
+
+### Julie Zhu
+<img style="float: right;" hspace="20" vspace="40" src="../images/qianyu_z.jpg" width="350" alt="Julie Zhu" title="Julie Zhu">
+
+* 1st year in the Uncertainty Quantification (UQ) group
+* Hometown: Nantong, China
+* Contact: [qianyu\_z@mit.edu](mailto:qianyu_z@mit.edu)
+* Languages: English, Mandarin
+
+“Hi! I am a graduate student in AeroAstro/LIDS working on Bayesian optimal experimental design and developing efficient methods for sampling. Outside of the lab, I enjoy running, playing badminton, listening to music, and cooking. Recently I am addicted to Kant and Rawls’ ideas (try my best to understand them >_<). I join dREFS because I experienced stress and depression during my first semester of PhD, and realized that having someone to talk to REALLY HELPS! I hope every AeroAstro student could feel like home on campus and build strong relationship with their peers and PIs. I am always here to support you!”
+
+
