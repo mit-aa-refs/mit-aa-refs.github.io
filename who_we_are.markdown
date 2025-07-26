@@ -169,7 +169,6 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 
 “Hi! I’m a graduate student in AeroAstro working on finding ways for aircraft to avoid making contrails since constrails significantly impact the climate. Outside of the lab, I go sailing, paint, and play tennis. I have experience searching for a new advisor, and I’m happy to chat about stressors related to the field evaluation process or anything else that might be going on. Feel free to contact me directly at onkig98@mit.edu”
 
-
 ### José Soto
 <img style="float: right;" hspace="20" vspace="40" src="../images/josesoto.jpeg" width="350" alt="José Soto" title="José Soto">
 
@@ -179,5 +178,15 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 * Languages: English
 
 “Hey guys! I’m José, a first year grad student in the Engineering System Lab where I do ISRU (in-situ resource utilization) surface technology development. Outside of lab, you can find me playing volleyball, acting in live theater, playing video games, listening to music and moving heavy objects up and down repeatedly. I became a dREF because I know how big a toll grad school can have on stress, anxiety and mental health in general. I’m here to listen if you need someone to talk to. We got this!”
+
+### Mia Tian
+<img style="float: right;" hspace="20" vspace="40" src="../images/miatian" width="350" alt="Mia Tian" title="Mia Tian">
+
+* 2nd year in the Astrodynamics, Space Robotics, and Controls Laboratory (ARCLab)
+* Hometown: Potomac, MD
+* Contact: [miatian@mit.edu](mailto:josesoto@mit.edu)
+* Languages: English, Mandarin(ish)
+
+“Hello! I’m a graduate student in AeroAstro researching space domain awareness, specifically studying collision avoidance and satellite drag. Aside from academics, I enjoy being a plant mom, drinking tea and sometimes moving my physical form. I have personally switched advisors and changed research topics, but I’d love to chat about anything with you. I’m here to listen and support however I can, so don’t hesitate to email me at miatian@mit.edu”
 
 
