@@ -149,7 +149,7 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 
 <details>
 
-<summary>Meet our alumni!</summary>
+<summary><span style="font-size: 1.17em; font-weight: bold;">Meet our alumni!</span></summary>
 
 ### Sydney Dolan
 <img style="float: right;" hspace="20" vspace="40" src="../images/sydneyd.png" width="350" title="Sydney Dolan">
