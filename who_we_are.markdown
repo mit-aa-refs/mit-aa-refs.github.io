@@ -132,12 +132,12 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 ### Sunbochen Tang 
 <img style="float: right;" hspace="20" vspace="40" src="../images/tangsun.jpg" width="350" alt="Sunbochen Tang" title="Sunbochen Tang">
 
-* 3rd year in the Azizan Lab (LIDS/MECHE)
+* 5th year in the Azizan Lab (LIDS/MECHE)
 * Hometown: Wuhan, China
 * Contact: [tangsun@mit.edu](mailto:tangsun@mit.edu)
 * Languages: English, Mandarin
 
-“Hi! I’m a 3rd year AeroAstro Ph.D. student in the Azizan lab (affiliated with LIDS/MECHE). My research focuses on developing trustworthy autonomous systems, with broader interests in control theory, optimization and learning. Outside of the lab, I enjoy walking around the city with my camera and cafe hopping, I also recently started learning to play the piano and to sail. I have experiences switching advisors, working with advisors outside AeroAstro, and changing research topics, from an international student perspective. Feel free to reach me via email, I am always happy to chat about grad school experiences or anything you have in mind!”
+“Hi! I’m a 5th year AeroAstro Ph.D. student in the Azizan lab (affiliated with LIDS/MECHE). My research focuses on developing trustworthy autonomous systems, with broader interests in control theory, optimization and learning. Outside of the lab, I enjoy walking around the city with my camera and cafe hopping, I am also learning to play the piano and to sail. I have experiences switching advisors, working with advisors outside AeroAstro, and changing research topics, from an international student perspective. Feel free to reach me via email, I am always happy to chat about grad school experiences or anything you have in mind!”
 
 ### Julie Zhu
 <img style="float: right;" hspace="20" vspace="40" src="../images/qianyu_z.jpg" width="350" alt="Julie Zhu" title="Julie Zhu">
