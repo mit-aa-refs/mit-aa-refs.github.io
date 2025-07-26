@@ -27,15 +27,15 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 
 “Hey there!  I’m an AeroAstro PhD student interested in using distributed satellite cameras to detect and track spacecraft and debris in low Earth orbit.  When I’m not in lab, I like throwing parties, making cocktails, and doing tricks on my skateboard—sometimes successfully.  I joined dREFS because I want students in this department to feel welcome in their research labs and appreciated in their interactions with their advisors.  I’m fortunate to have a great relationship with my PI, and I want to propagate that through the rest of the department.  So, if you need someone to talk to, I’m here to listen, and if you’re feeling lost in space, I’ll be your GPS.”
 
-### Alex Meredith (vice president)
+### Alex Rose (vice president)
 <img style="float: right;" hspace="20" vspace="60" src="../images/ameredit.png" width="350" alt="Alex Meredith" title="Alex Meredith">
 
-* 3rd year in the Aerospace Controls Lab (ACL)
+* 5th year in the Aerospace Controls Lab
 * Hometown: Seattle, Washington
 * Contact: [ameredit@mit.edu](mailto:ameredit@mit.edu)
 * Languages: English
 
-“Hi! I’m a PhD student interested in space-based imaging, machine learning, and spacecraft autonomy, navigation, and control. I love rock climbing, hiking, and the outdoors. I also really enjoy cooking and baking with my fiancée. I joined dREFS because I’m passionate about grad student health and wellbeing. I’m here to listen and help support other grad students through stress, anxiety, burnout, or any other problems you’re experiencing inside of or outside of MIT!”
+“Hi! I’m a PhD student interested in uncertainty-aware path planning and spacecraft guidance, navigation, and control. I love rock climbing, hiking, and the outdoors. I also enjoy playing video games, reading dystopian novels, and cooking and baking with my wife. I joined dREFS because I’m passionate about grad student health and wellbeing. I have experience switching advisors and switching research topics, but I’m here to listen and support you through any problem. You can reach out to me directly at ameredit@mit.edu.”
 
 ### Myrella Cabral
 <img style="float: right;" hspace="20" vspace="10" src="../images/myrella.jpg" width="350" alt="Myrella Cabral" title="Myrella Cabral">
