@@ -142,7 +142,7 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 ### Julie Zhu
 <img style="float: right;" hspace="20" vspace="40" src="../images/qianyu_z.jpg" width="350" alt="Julie Zhu" title="Julie Zhu">
 
-* 1st year in the Uncertainty Quantification (UQ) group
+* 3rd year in the Uncertainty Quantification (UQ) group
 * Hometown: Nantong, China
 * Contact: [qianyu\_z@mit.edu](mailto:qianyu_z@mit.edu)
 * Languages: English, Mandarin
