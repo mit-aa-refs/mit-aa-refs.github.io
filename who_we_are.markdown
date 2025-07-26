@@ -10,12 +10,12 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 ### Jasmine Jerry Aloor (co-president)
 <img style="float: right;" hspace="20" vspace="30" src="../images/jjaloor.png" width="350" alt="Jasmine Jerry Aloor" title="Jasmine Jerry Aloor">
 
-* 2nd year in the Dynamics, Infrastructure Networks, and Mobility (DINaMo) Group
+* 4th year in the Dynamics, Infrastructure Networks, and Mobility (DINaMo) Group
 * Hometown: Bangalore, India
 * Contact: [jjaloor@mit.edu](mailto:jjaloor@mit.edu)
 * Languages: English, Hindi, Malayalam
 
-"Hi! I’m a graduate student in AeroAstro working on safe planning and fair decision-making for multi-agent robots. In my spare time, I love to read and learn about new technologies, and their potential impact on society. Some of my newest hobbies are knitting, playing board games with friends and learning new languages. I love having conversations with people about any topic and I'm committed to supporting my fellow graduate students. As a dREFS, I'm always available and approachable, willing to help with any questions or concerns"
+"Hi! I’m a graduate student in AeroAstro working on safe planning and fair decision-making for multi-agent robots. In my spare time, I love to read and learn about new technologies, and their potential impact on society. Some of my newest hobbies are knitting, playing board games with friends and learning new languages. I love having conversations with people about any topic and I'm committed to supporting my fellow graduate students. As a dREFS, I'm always available and approachable, willing to help with any questions or concerns."
 
 ### Allan Shtofenmakher (co-president)
 <img style="float: right;" hspace="20" vspace="120" src="../images/ashtofen.jpg" width="350" alt="Allan Shtofenmakher" title="Allan Shtofenmakher">
