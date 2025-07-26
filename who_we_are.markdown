@@ -159,4 +159,14 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 
 “Hi! I’m a 3rd-year student in air transportation systems, working on optimization of flight gate assignments. Apart from research, I practice with the MIT archery club and also sometimes act in plays with the MIT theatre program. In my free time, I enjoy flying planes and playing MarioKart. I have experience with switching advisors and research topics and am happy to help anyone with navigating these processes, or with many other situations one might encounter during their time at MIT.”
 
+### Olivier Ng’weno Kigotho
+<img style="float: right;" hspace="20" vspace="40" src="../images/onik98.jpeg" width="350" alt="Olivier Ng’weno Kigotho" title="Olivier Ng’weno Kigotho">
+
+* 4th year in the Laboratory for Aviation and the Environment
+* Hometown: Nairobi, Kenya
+* Contact: [onkig98@mit.edu](mailto:onkig98@mit.edu)
+* Languages: English, Kiswahili
+
+“Hi! I’m a graduate student in AeroAstro working on finding ways for aircraft to avoid making contrails since constrails significantly impact the climate. Outside of the lab, I go sailing, paint, and play tennis. I have experience searching for a new advisor, and I’m happy to chat about stressors related to the field evaluation process or anything else that might be going on. Feel free to contact me directly at onkig98@mit.edu”
+
 
