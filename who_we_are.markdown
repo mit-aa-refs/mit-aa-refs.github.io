@@ -209,3 +209,5 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 * Languages: English
 
 “Hi! I’m Emma Shafer, and I am a first year master’s student in STAR lab. In my free time, I like to play in music ensembles (I have experience in flute, oboe, and piano), play video games, and walking my dog. Some other things about me is that I’m asexual, and I recently discovered that I am autistic. I joined dREFS because I found it very helpful my first semester (when I took a fellowship rejection hard), and I want to help others. I would be happy to share my experiences.”
+
+</details>
