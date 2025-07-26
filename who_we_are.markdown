@@ -20,12 +20,12 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 ### Allan Shtofenmakher (co-president)
 <img style="float: right;" hspace="20" vspace="120" src="../images/ashtofen.jpg" width="350" alt="Allan Shtofenmakher" title="Allan Shtofenmakher">
 
-* 2nd year in the Dynamics, Infrastructure Networks, and Mobility (DINaMo) lab
+* 4th year in the Dynamics, Infrastructure Networks, and Mobility (DINaMo) lab
 * Hometown: Irvine, CA
 * Contact: [ashtofen@mit.edu](mailto:ashtofen@mit.edu)
 * Languages: English, Russian, Spanish
 
-"Hey there!  I’m an AeroAstro PhD student interested in using distributed satellite cameras to keep track of all of the tiny pieces of debris in low Earth orbit.  When I’m not in lab, I enjoy exploring Boston, meeting new people, trying new things, hosting parties, crafting cocktails, and doing tricks on my skateboard—sometimes successfully.  I joined dREFS because I want students in this department to feel welcome in their research labs and appreciated in their interactions with their advisors.  I’m fortunate to have a great relationship with my PI, and I want to propagate that through the rest of the department.  So, if you need someone to talk to, I’m here to listen, and if you need to navigate a difficult situation, I’ll be your GPS."
+“Hey there!  I’m an AeroAstro PhD student interested in using distributed satellite cameras to detect and track spacecraft and debris in low Earth orbit.  When I’m not in lab, I like throwing parties, making cocktails, and doing tricks on my skateboard—sometimes successfully.  I joined dREFS because I want students in this department to feel welcome in their research labs and appreciated in their interactions with their advisors.  I’m fortunate to have a great relationship with my PI, and I want to propagate that through the rest of the department.  So, if you need someone to talk to, I’m here to listen, and if you’re feeling lost in space, I’ll be your GPS.”
 
 ### Alex Meredith (vice president)
 <img style="float: right;" hspace="20" vspace="60" src="../images/ameredit.png" width="350" alt="Alex Meredith" title="Alex Meredith">
