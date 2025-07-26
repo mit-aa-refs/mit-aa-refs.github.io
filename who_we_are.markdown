@@ -190,7 +190,7 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 “Hello! I’m a graduate student in AeroAstro researching space domain awareness, specifically studying collision avoidance and satellite drag. Aside from academics, I enjoy being a plant mom, drinking tea and sometimes moving my physical form. I have personally switched advisors and changed research topics, but I’d love to chat about anything with you. I’m here to listen and support however I can, so don’t hesitate to email me at miatian@mit.edu”
 
 ### Marlene Euchenhofer (Treasurer)
-<img style="float: right;" hspace="20" vspace="40" src="../images/euchmv.jpg" width="350" alt="Marlene Euchenhofer" title="Marlene Euchenhofer">
+<img style="float: right;" hspace="20" vspace="40" src="../images/euchmv.JPEG" width="350" alt="Marlene Euchenhofer" title="Marlene Euchenhofer">
 
 * 3rd year in the Laboratory for Aviation and the Environment
 * Hometown: Esslingen, Germany
