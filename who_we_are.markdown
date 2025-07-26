@@ -149,4 +149,14 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 
 “Hi! I am a graduate student in AeroAstro/LIDS working on Bayesian optimal experimental design and developing efficient methods for sampling. Outside of the lab, I enjoy running, playing badminton, listening to music, and cooking. Recently I am addicted to Kant and Rawls’ ideas (try my best to understand them >_<). I join dREFS because I experienced stress and depression during my first semester of PhD, and realized that having someone to talk to REALLY HELPS! I hope every AeroAstro student could feel like home on campus and build strong relationship with their peers and PIs. I am always here to support you!”
 
+### Kevin
+
+
+* 3rd year in the DiNaMO group
+* Hometown: Dallas, TX
+* Contact: [bowserjr@mit.edu](mailto:bowserjr@mit.edu)
+* Languages: English, German, Spanish, Japanese
+
+“Hi! I’m a 3rd-year student in air transportation systems, working on optimization of flight gate assignments. Apart from research, I practice with the MIT archery club and also sometimes act in plays with the MIT theatre program. In my free time, I enjoy flying planes and playing MarioKart. I have experience with switching advisors and research topics and am happy to help anyone with navigating these processes, or with many other situations one might encounter during their time at MIT.”
+
 
