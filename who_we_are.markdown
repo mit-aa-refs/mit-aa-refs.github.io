@@ -60,7 +60,7 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 ### Heekun Roh
 <img style="float: right;" hspace="20" vspace="20" src="../images/hroh.jpg" width="350" alt="Heekun Roh" title="Heekun Roh">
 
-* 1st year PhD in the Engineering Systems Laboratory
+* 3rd year PhD in the Engineering Systems Laboratory
 * Hometown: Daejeon, Republic of Korea
 * Contact: [hroh@mit.edu](mailto:hroh@mit.edu)
 * Languages: Korean, English, French
