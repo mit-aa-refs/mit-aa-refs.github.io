@@ -155,62 +155,71 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 <img src="../images/sydneyd.png" alt="Sydney Dolan" title="Sydney Dolan" style="float: right; margin-left: 20px; margin-top: 40px;" width="350">
 
 <ul>
-  <li><strong>DiNAMo</strong></li>
-  <li><strong>Hometown:</strong> Centreville, Virginia</li>
-  <li><strong>Contact:</strong> <a href="mailto:sydneyd@mit.edu">sydneyd@mit.edu</a></li>
-  <li><strong>Languages:</strong> English</li>
+  <li>DiNAMo</li>
+  <li>Hometown: Centreville, Virginia</li>
+  <li>Contact: <a href="mailto:sydneyd@mit.edu">sydneyd@mit.edu</a></li>
+  <li>Languages: English</li>
 </ul>
 
 <p>“Hello hello hello! I am a PhD student interested in graph neural networks and game theoretic design for space traffic management. I love trail running, ice climbing, and going to drag shows. I joined dREFS because I’m passionate about student wellbeing, and I believe everyone should have the tools and support they need to succeed in graduate school. My path to my current advisor was a little rocky and nontraditional, so I’m happy to chat about advising issues and what it’s like to switch advisors. As a dREFS, I’m here to listen and support other graduate students through any problems that you’re dealing with at MIT!”</p>
 
+<h3>Andrew Fishberg</h3>
 
-### Andrew Fishberg
+<ul>
+  <li>Aerospace Controls Lab (ACL)</li>
+  <li>Hometown: Freehold, New Jersey</li>
+  <li>Contact: <a href="mailto:fishberg@mit.edu">fishberg@mit.edu</a></li>
+  <li>Languages: English</li>
+</ul>
 
-* Aerospace Controls Lab (ACL)
-* Hometown: Freehold, New Jersey
-* Contact: [fishberg@mit.edu](mailto:fishberg@mit.edu)
-* Languages: English
+<p>“Hey all! I’m an AeroAstro PhD student working on multi-agent robotics. When not tinkering with robots in the lab, I love to play games, watch movies, and practice the accordion (I’m not very good yet, only recently started!). As a member of dREFS, I’m eager to lend a helpful ear to whatever problems you’re experiencing within or outside of MIT!”</p>
 
-“Hey all! I’m an AeroAstro PhD student working on multi-agent robotics. When not tinkering with robots in the lab, I love to play games, watch movies, and practice the accordion (I’m not very good yet, only recently started!). As a member of dREFS, I’m eager to lend a helpful ear to whatever problems you’re experiencing within or outside of MIT!”
+<h3>Chris Chin</h3>
+<img src="../images/astronaut.png" alt="Chris Chin" title="Chris Chin" style="float: right; margin-left: 20px;" width="350">
 
-### Chris Chin
-<img style="float: right;" hspace="20" src="../images/astronaut.png" width="350" alt="Andrew Fishberg" title="Andrew Fishberg">
+<ul>
+  <li>Dynamics, Infrastructure Networks, and Mobility (DINaMo) lab</li>
+  <li>Hometown: Seattle, WA</li>
+  <li>Contact: <a href="mailto:chychin@mit.edu">chychin@mit.edu</a></li>
+  <li>Languages: English</li>
+</ul>
 
-* Dynamics, Infrastructure Networks, and Mobility (DINaMo) lab
-* Hometown: Seattle, WA
-* Contact: [chychin@mit.edu](mailto:chychin@mit.edu)
-* Languages: English
+<p>“Hi! I’m an AeroAstro PhD student interested in air transportation, including airlines, air traffic management, and advanced air mobility. In my free time, I enjoy playing team sports (particularly soccer) and biking/kayaking along the Charles. I also love to travel and plan trips. I joined dREFS because I want my fellow grad student to have the best experience possible at MIT, both academically and socially.”</p>
 
-“Hi! I’m an AeroAstro PhD student interested in air transportation, including airlines, air traffic management, and advanced air mobility. In my free time, I enjoy playing team sports (particularly soccer) and biking/kayaking along the Charles. I also love to travel and plan trips. I joined dREFS because I want my fellow grad student to have the best experience possible at MIT, both academically and socially.”  
+<h3>Ryan de Freitas Bart</h3>
+<img src="../images/ryandfb.png" alt="Ryan de Freitas Bart" title="Ryan de Freitas Bart" style="float: right; margin-left: 20px;" width="350">
 
-### Ryan de Freitas Bart
-<img style="float: right;" hspace="20" src="../images/ryandfb.png" width="350" alt="Ryan de Freitas Bart" title="Ryan de Freitas Bart">
+<ul>
+  <li>Engineering Systems Lab</li>
+  <li>Hometown: Los Angeles, California</li>
+  <li>Contact: <a href="mailto:ryandfb@mit.edu">ryandfb@mit.edu</a></li>
+  <li>Languages: English</li>
+</ul>
 
-* Engineering Systems Lab
-* Hometown: Los Angeles, California
-* Contact: [ryandfb@mit.edu](mailto:ryandfb@mit.edu)
-* Languages: English
+<p>“Hi everyone! My name is Ryan and I’m a fifth-year graduate student in the AeroAstro department being advised by Prof. Jeff Hoffman. I work in the Engineering Systems Lab and am also a Draper Scholar. I currently serve as a Co-President of the Graduate Association of Aeronautics and Astronautics (GA^3) and Chair of the GSC Committee on Academics, Research, and Careers (ARC).”</p>
 
-“Hi everyone! My name is Ryan and I’m a fifth-year graduate student in the AeroAstro department being advised by Prof. Jeff Hoffman. I work in the Engineering Systems Lab and am also a Draper Scholar. I currently serve as a Co-President of the Graduate Association of Aeronautics and Astronautics (GA^3) and Chair of the GSC Committee on Academics, Research, and Careers (ARC).”
+<h3>Polly Harrington</h3>
+<img src="../images/ph1.jpg" alt="Polly Harrington" title="Polly Harrington" style="float: right; margin-left: 20px; margin-top: 10px;" width="350">
 
-### Polly Harrington 
-<img style="float: right;" hspace="20" vspace="10" src="../images/ph1.jpg" width="350" alt="Polly Harrington" title="Polly Harrington">
+<ul>
+  <li>Engineering Systems Laboratory</li>
+  <li>Hometown: Seattle, WA</li>
+  <li>Contact: <a href="mailto:ph1@mit.edu">ph1@mit.edu</a></li>
+  <li>Languages: English, Spanish (conversational)</li>
+</ul>
 
-* Engineering Systems Laboratory
-* Hometown: Seattle, WA 
-* Contact: [ph1@mit.edu](mailto:ph1@mit.edu)
-* Languages: English, Spanish (conversational)
+<p>“Polly Harrington is a student in ESL researching system safety (currently looking at healthcare safety). Outside of research, Polly is a member of the MIT curling team (we’re always looking for new curlers :)) and does far too many crafts (embroidery/sewing/knitting/etc.). I want to help ensure grad students enjoy their time at MIT and am always happy to talk!”</p>
 
-"Polly Harrington is a student in ESL researching system safety (currently looking at healthcare safety). Outside of research, Polly is a member of the MIT curling team (we’re always looking for new curlers :)) and does far too many crafts (embroidery/sewing/knitting/etc.). I want to help ensure grad students enjoy their time at MIT and am always happy to talk!"
+<h3>Emma Shafer</h3>
+<img src="../images/shaferem.jpg" alt="Emma Shafer" title="Emma Shafer" style="float: right; margin-left: 20px; margin-top: 20px;" width="350">
 
-### Emma Shafer 
-<img style="float: right;" hspace="20" vspace="20" src="../images/shaferem.jpg" width="350" alt="Emma Shafer" title="Emma Shafer">
+<ul>
+  <li>Space Telecommunications, Astronomy, and Radiation (STAR) lab</li>
+  <li>Hometown: Fernandina Beach, Florida</li>
+  <li>Contact: <a href="mailto:shaferem@mit.edu">shaferem@mit.edu</a></li>
+  <li>Languages: English</li>
+</ul>
 
-* Space Telecommunications, Astronomy, and Radiation (STAR) lab
-* Hometown: Fernandina Beach, Florida
-* Contact: [shaferem@mit.edu](mailto:shaferem@mit.edu)
-* Languages: English
-
-“Hi! I’m Emma Shafer, and I am a first year master’s student in STAR lab. In my free time, I like to play in music ensembles (I have experience in flute, oboe, and piano), play video games, and walking my dog. Some other things about me is that I’m asexual, and I recently discovered that I am autistic. I joined dREFS because I found it very helpful my first semester (when I took a fellowship rejection hard), and I want to help others. I would be happy to share my experiences.”
+<p>“Hi! I’m Emma Shafer, and I am a first year master’s student in STAR lab. In my free time, I like to play in music ensembles (I have experience in flute, oboe, and piano), play video games, and walking my dog. Some other things about me is that I’m asexual, and I recently discovered that I am autistic. I joined dREFS because I found it very helpful my first semester (when I took a fellowship rejection hard), and I want to help others. I would be happy to share my experiences.”</p>
 
 </details>
