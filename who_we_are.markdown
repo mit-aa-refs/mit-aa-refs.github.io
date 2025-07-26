@@ -170,7 +170,7 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 “Hi! I’m a graduate student in AeroAstro working on finding ways for aircraft to avoid making contrails since constrails significantly impact the climate. Outside of the lab, I go sailing, paint, and play tennis. I have experience searching for a new advisor, and I’m happy to chat about stressors related to the field evaluation process or anything else that might be going on. Feel free to contact me directly at onkig98@mit.edu”
 
 ### José Soto
-<img style="float: right;" hspace="20" vspace="40" src="../images/josesoto.jpeg" width="350" alt="José Soto" title="José Soto">
+<img style="float: right;" hspace="20" vspace="40" src="../images/josesoto.jpg" width="350" alt="José Soto" title="José Soto">
 
 * 2nd year in the Engineering Systems Lab
 * Hometown: Dallas, TX
@@ -180,7 +180,7 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 “Hey guys! I’m José, a first year grad student in the Engineering System Lab where I do ISRU (in-situ resource utilization) surface technology development. Outside of lab, you can find me playing volleyball, acting in live theater, playing video games, listening to music and moving heavy objects up and down repeatedly. I became a dREF because I know how big a toll grad school can have on stress, anxiety and mental health in general. I’m here to listen if you need someone to talk to. We got this!”
 
 ### Mia Tian
-<img style="float: right;" hspace="20" vspace="40" src="../images/miatian" width="350" alt="Mia Tian" title="Mia Tian">
+<img style="float: right;" hspace="20" vspace="40" src="../images/miatian.jpg" width="350" alt="Mia Tian" title="Mia Tian">
 
 * 2nd year in the Astrodynamics, Space Robotics, and Controls Laboratory (ARCLab)
 * Hometown: Potomac, MD
@@ -188,5 +188,15 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 * Languages: English, Mandarin(ish)
 
 “Hello! I’m a graduate student in AeroAstro researching space domain awareness, specifically studying collision avoidance and satellite drag. Aside from academics, I enjoy being a plant mom, drinking tea and sometimes moving my physical form. I have personally switched advisors and changed research topics, but I’d love to chat about anything with you. I’m here to listen and support however I can, so don’t hesitate to email me at miatian@mit.edu”
+
+### Marlene Euchenhofer (Treasurer)
+<img style="float: right;" hspace="20" vspace="40" src="../images/euchmv.jpg" width="350" alt="Marlene Euchenhofer" title="Marlene Euchenhofer">
+
+* 3rd year in the Laboratory for Aviation and the Environment
+* Hometown: Esslingen, Germany
+* Contact: [euchmv@mit.edu](mailto:euchmv@mit.edu), [ga3-treasurer@mit.edu](mailto:ga3-treasurer@mit.edu)
+* Languages: English, German, Swedish (very basic), French (once upon a time)
+
+“Hi all! I’m a PhD student in AeroAstro’s LAE research contrails via satellite-based remote sensing. As treasurer for both dREFS and GA^3 (the Graduate Student Association of Aeronautics and Astronautics) I mostly operate in the background, processing all our expenses. In my free time, I enjoy running all over Boston and Cambridge, playing guitar, and cooking for friends. If you have questions about how things work in the department or how to run an event you would like to see happen, feel free to reach out to me!”
 
 
