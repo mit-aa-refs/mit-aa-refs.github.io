@@ -151,15 +151,18 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 
 <summary><span style="font-size: 1.17em; font-weight: bold;">Meet our alumni!</span></summary>
 
-### Sydney Dolan
-<img style="float: right;" hspace="20" vspace="40" src="../images/sydneyd.png" width="350" title="Sydney Dolan">
+<h3>Sydney Dolan</h3>
+<img src="../images/sydneyd.png" alt="Sydney Dolan" title="Sydney Dolan" style="float: right; margin-left: 20px; margin-top: 40px;" width="350">
 
-* DiNAMo 
-* Hometown: Centreville, Virginia
-* Contact: [sydneyd@mit.edu](mailto:sydneyd@mit.edu)
-* Languages: English
+<ul>
+  <li><strong>DiNAMo</strong></li>
+  <li><strong>Hometown:</strong> Centreville, Virginia</li>
+  <li><strong>Contact:</strong> <a href="mailto:sydneyd@mit.edu">sydneyd@mit.edu</a></li>
+  <li><strong>Languages:</strong> English</li>
+</ul>
 
-“Hello hello hello! I am a PhD student interested in graph neural networks and game theoretic design for space traffic management. I love trail running, ice climbing, and going to drag shows. I joined dREFS because I’m passionate about student wellbeing, and I believe everyone should have the tools and support they need to succeed in graduate school.  My path to my current advisor was a little rocky and nontraditional, so I’m happy to chat about advising issues and what it’s like to switch advisors. As a dREFS, I’m here to listen and support other graduate students through any problems that you’re dealing with at MIT!”
+<p>“Hello hello hello! I am a PhD student interested in graph neural networks and game theoretic design for space traffic management. I love trail running, ice climbing, and going to drag shows. I joined dREFS because I’m passionate about student wellbeing, and I believe everyone should have the tools and support they need to succeed in graduate school. My path to my current advisor was a little rocky and nontraditional, so I’m happy to chat about advising issues and what it’s like to switch advisors. As a dREFS, I’m here to listen and support other graduate students through any problems that you’re dealing with at MIT!”</p>
+
 
 ### Andrew Fishberg
 
