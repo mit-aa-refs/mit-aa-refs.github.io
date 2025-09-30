@@ -7,8 +7,38 @@ permalink: /who-we-are/
 The AeroAstro dREFS are graduate students trained in conflict management. You can contact an individual dREF directly or find us all at [aeroastro-refs@mit.edu](mailto:aeroastro-refs@mit.edu). If you are interested in joining the team, contact us at [aeroastro-refs@mit.edu](mailto:aeroastro-refs@mit.edu) for information about training. If you are interested in our organizational structure, you can read our [constitution](https://aarefs.files.wordpress.com/2020/11/aeroastro-drefs-constitution.pdf). 
 
 
-### Jasmine Jerry Aloor (co-president)
-<img style="float: right;" hspace="20" vspace="30" src="../images/jjaloor.png" width="350" alt="Jasmine Jerry Aloor" title="Jasmine Jerry Aloor">
+### José Soto (Co-President)
+<img style="float: right;" hspace="20" vspace="40" src="../images/josesoto.jpg" width="350" alt="José Soto" title="José Soto">
+
+* 2nd year in the Engineering Systems Lab
+* Hometown: Dallas, TX
+* Contact: [josesoto@mit.edu](mailto:josesoto@mit.edu)
+* Languages: English
+
+“Hey guys! I’m José, a first year grad student in the Engineering System Lab where I do ISRU (in-situ resource utilization) surface technology development. Outside of lab, you can find me playing volleyball, acting in live theater, playing video games, listening to music and moving heavy objects up and down repeatedly. I became a dREF because I know how big a toll grad school can have on stress, anxiety and mental health in general. I’m here to listen if you need someone to talk to. We got this!”
+
+### Mia Tian (Co-President)
+<img style="float: right;" hspace="20" vspace="40" src="../images/miatian.jpg" width="350" alt="Mia Tian" title="Mia Tian">
+
+* 2nd year in the Astrodynamics, Space Robotics, and Controls Laboratory (ARCLab)
+* Hometown: Potomac, MD
+* Contact: [miatian@mit.edu](mailto:josesoto@mit.edu)
+* Languages: English, Mandarin(ish)
+
+“Hello! I’m a graduate student in AeroAstro researching space domain awareness, specifically studying collision avoidance and satellite drag. Aside from academics, I enjoy being a plant mom, drinking tea and sometimes moving my physical form. I have personally switched advisors and changed research topics, but I’d love to chat about anything with you. I’m here to listen and support however I can, so don’t hesitate to email me at miatian@mit.edu”
+
+### Sunbochen Tang (Co-President)
+<img style="float: right;" hspace="20" vspace="40" src="../images/tangsun.jpg" width="350" alt="Sunbochen Tang" title="Sunbochen Tang">
+
+* 5th year in the Azizan Lab (LIDS/MECHE)
+* Hometown: Wuhan, China
+* Contact: [tangsun@mit.edu](mailto:tangsun@mit.edu)
+* Languages: English, Mandarin
+
+“Hi! I’m a 5th year AeroAstro Ph.D. student in the Azizan lab (affiliated with LIDS/MECHE). My research focuses on developing trustworthy autonomous systems, with broader interests in control theory, optimization and learning. Outside of the lab, I enjoy walking around the city with my camera and cafe hopping, I am also learning to play the piano and to sail. I have experiences switching advisors, working with advisors outside AeroAstro, and changing research topics, from an international student perspective. Feel free to reach me via email, I am always happy to chat about grad school experiences or anything you have in mind!”
+
+### Jasmine Jerry Aloor
+<img style="float: right;" hspace="20" vspace="30" src="../images/jjaloor.pfng" width="350" alt="Jasmine Jerry Aloor" title="Jasmine Jerry Aloor">
 
 * 4th year in the Dynamics, Infrastructure Networks, and Mobility (DINaMo) Group
 * Hometown: Bangalore, India
@@ -17,7 +47,7 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 
 "Hi! I’m a graduate student in AeroAstro working on safe planning and fair decision-making for multi-agent robots. In my spare time, I love to read and learn about new technologies, and their potential impact on society. Some of my newest hobbies are knitting, playing board games with friends and learning new languages. I love having conversations with people about any topic and I'm committed to supporting my fellow graduate students. As a dREFS, I'm always available and approachable, willing to help with any questions or concerns."
 
-### Allan Shtofenmakher (co-president)
+### Allan Shtofenmakher
 <img style="float: right;" hspace="20" vspace="120" src="../images/ashtofen.jpg" width="350" alt="Allan Shtofenmakher" title="Allan Shtofenmakher">
 
 * 4th year in the Dynamics, Infrastructure Networks, and Mobility (DINaMo) lab
@@ -27,7 +57,7 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 
 “Hey there!  I’m an AeroAstro PhD student interested in using distributed satellite cameras to detect and track spacecraft and debris in low Earth orbit.  When I’m not in lab, I like throwing parties, making cocktails, and doing tricks on my skateboard—sometimes successfully.  I joined dREFS because I want students in this department to feel welcome in their research labs and appreciated in their interactions with their advisors.  I’m fortunate to have a great relationship with my PI, and I want to propagate that through the rest of the department.  So, if you need someone to talk to, I’m here to listen, and if you’re feeling lost in space, I’ll be your GPS.”
 
-### Alex Rose (vice president)
+### Alex Rose
 <img style="float: right;" hspace="20" vspace="60" src="../images/ameredit.png" width="350" alt="Alex Meredith" title="Alex Meredith">
 
 * 5th year in the Aerospace Controls Lab
@@ -77,16 +107,6 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 
 “Ryann is a student in the HSL as well as a Draper Scholar currently working on miniaturized power conversion technology for space-based applications. Outside of lab, Ryann volunteers as an EMT for MIT EMS and enjoys soccer, climbing, and just about anything outdoors. She has experience switching advisors, changing research topics, and navigating the various grad resources on campus. She is passionate about helping others and wants AeroAstro to be a welcoming and enjoyable experience for the community.”
 
-### Sunbochen Tang 
-<img style="float: right;" hspace="20" vspace="40" src="../images/tangsun.jpg" width="350" alt="Sunbochen Tang" title="Sunbochen Tang">
-
-* 5th year in the Azizan Lab (LIDS/MECHE)
-* Hometown: Wuhan, China
-* Contact: [tangsun@mit.edu](mailto:tangsun@mit.edu)
-* Languages: English, Mandarin
-
-“Hi! I’m a 5th year AeroAstro Ph.D. student in the Azizan lab (affiliated with LIDS/MECHE). My research focuses on developing trustworthy autonomous systems, with broader interests in control theory, optimization and learning. Outside of the lab, I enjoy walking around the city with my camera and cafe hopping, I am also learning to play the piano and to sail. I have experiences switching advisors, working with advisors outside AeroAstro, and changing research topics, from an international student perspective. Feel free to reach me via email, I am always happy to chat about grad school experiences or anything you have in mind!”
-
 ### Julie Zhu
 <img style="float: right;" hspace="20" vspace="40" src="../images/qianyu_z.jpg" width="350" alt="Julie Zhu" title="Julie Zhu">
 
@@ -116,26 +136,6 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 * Languages: English, Kiswahili
 
 “Hi! I’m a graduate student in AeroAstro working on finding ways for aircraft to avoid making contrails since constrails significantly impact the climate. Outside of the lab, I go sailing, paint, and play tennis. I have experience searching for a new advisor, and I’m happy to chat about stressors related to the field evaluation process or anything else that might be going on. Feel free to contact me directly at onkig98@mit.edu”
-
-### José Soto
-<img style="float: right;" hspace="20" vspace="40" src="../images/josesoto.jpg" width="350" alt="José Soto" title="José Soto">
-
-* 2nd year in the Engineering Systems Lab
-* Hometown: Dallas, TX
-* Contact: [josesoto@mit.edu](mailto:josesoto@mit.edu)
-* Languages: English
-
-“Hey guys! I’m José, a first year grad student in the Engineering System Lab where I do ISRU (in-situ resource utilization) surface technology development. Outside of lab, you can find me playing volleyball, acting in live theater, playing video games, listening to music and moving heavy objects up and down repeatedly. I became a dREF because I know how big a toll grad school can have on stress, anxiety and mental health in general. I’m here to listen if you need someone to talk to. We got this!”
-
-### Mia Tian
-<img style="float: right;" hspace="20" vspace="40" src="../images/miatian.jpg" width="350" alt="Mia Tian" title="Mia Tian">
-
-* 2nd year in the Astrodynamics, Space Robotics, and Controls Laboratory (ARCLab)
-* Hometown: Potomac, MD
-* Contact: [miatian@mit.edu](mailto:josesoto@mit.edu)
-* Languages: English, Mandarin(ish)
-
-“Hello! I’m a graduate student in AeroAstro researching space domain awareness, specifically studying collision avoidance and satellite drag. Aside from academics, I enjoy being a plant mom, drinking tea and sometimes moving my physical form. I have personally switched advisors and changed research topics, but I’d love to chat about anything with you. I’m here to listen and support however I can, so don’t hesitate to email me at miatian@mit.edu”
 
 ### Marlene Euchenhofer (Treasurer)
 <img style="float: right;" hspace="20" vspace="40" src="../images/euchmv.JPEG" width="350" alt="Marlene Euchenhofer" title="Marlene Euchenhofer">
