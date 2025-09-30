@@ -38,7 +38,7 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 “Hi! I’m a 5th year AeroAstro Ph.D. student in the Azizan lab (affiliated with LIDS/MECHE). My research focuses on developing trustworthy autonomous systems, with broader interests in control theory, optimization and learning. Outside of the lab, I enjoy walking around the city with my camera and cafe hopping, I am also learning to play the piano and to sail. I have experiences switching advisors, working with advisors outside AeroAstro, and changing research topics, from an international student perspective. Feel free to reach me via email, I am always happy to chat about grad school experiences or anything you have in mind!”
 
 ### Jasmine Jerry Aloor
-<img style="float: right;" hspace="20" vspace="30" src="../images/jjaloor.pfng" width="350" alt="Jasmine Jerry Aloor" title="Jasmine Jerry Aloor">
+<img style="float: right;" hspace="20" vspace="30" src="../images/jjaloor.png" width="350" alt="Jasmine Jerry Aloor" title="Jasmine Jerry Aloor">
 
 * 4th year in the Dynamics, Infrastructure Networks, and Mobility (DINaMo) Group
 * Hometown: Bangalore, India
