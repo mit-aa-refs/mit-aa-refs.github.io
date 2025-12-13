@@ -137,6 +137,16 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 
 “Hi! I’m a graduate student in AeroAstro working on finding ways for aircraft to avoid making contrails since constrails significantly impact the climate. Outside of the lab, I go sailing, paint, and play tennis. I have experience searching for a new advisor, and I’m happy to chat about stressors related to the field evaluation process or anything else that might be going on. Feel free to contact me directly at onkig98@mit.edu”
 
+### Mina Cezairli
+<img style="float: right;" hspace="20" vspace="40" src="../images/cezairli.jpeg" width="350" alt="Mina Cezairli" title="Mina Cezairli">
+
+* 3rd year in the International Center for Air Transportation (ICAT)
+* Hometown: Istanbul, Turkey
+* Contact: [cezairli@mit.edu](mailto:cezairli@mit.edu)
+* Languages: English, Turkish
+
+“Hello! I am a third-year graduate student in AeroAstro, and my research focuses on operational improvements to make aviation more sustainable. Outside of research, I enjoy running, reading, exploring Boston, and (when I can) sailing and flying. I joined the dREFS recently to contribute to the sense of community within AeroAstro and to help make sure we all have the support we need to thrive here. I can chat about the challenges and wonders of the international student experience. Other than that, feel free to reach out to me about anything else as well!”
+
 ### Marlene Euchenhofer (Treasurer)
 <img style="float: right;" hspace="20" vspace="40" src="../images/euchmv.JPEG" width="350" alt="Marlene Euchenhofer" title="Marlene Euchenhofer">
 
