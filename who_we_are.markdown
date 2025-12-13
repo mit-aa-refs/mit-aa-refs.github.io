@@ -138,7 +138,7 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 “Hi! I’m a graduate student in AeroAstro working on finding ways for aircraft to avoid making contrails since constrails significantly impact the climate. Outside of the lab, I go sailing, paint, and play tennis. I have experience searching for a new advisor, and I’m happy to chat about stressors related to the field evaluation process or anything else that might be going on. Feel free to contact me directly at onkig98@mit.edu”
 
 ### Mina Cezairli
-<img style="float: right;" hspace="20" vspace="40" src="../images/cezairli.jpeg" width="350" alt="Mina Cezairli" title="Mina Cezairli">
+<img style="float: right;" hspace="20" vspace="40" src="../images/cezairli.png" width="350" alt="Mina Cezairli" title="Mina Cezairli">
 
 * 3rd year in the International Center for Air Transportation (ICAT)
 * Hometown: Istanbul, Turkey
