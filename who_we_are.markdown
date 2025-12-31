@@ -155,7 +155,7 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 * Contact: [euchmv@mit.edu](mailto:euchmv@mit.edu), [ga3-treasurer@mit.edu](mailto:ga3-treasurer@mit.edu)
 * Languages: English, German, Swedish (very basic), French (once upon a time)
 
-“Hi all! I’m a PhD student in AeroAstro’s LAE research contrails via satellite-based remote sensing. As treasurer for both dREFS and GA^3 (the Graduate Student Association of Aeronautics and Astronautics) I mostly operate in the background, processing all our expenses. In my free time, I enjoy running all over Boston and Cambridge, playing guitar, and cooking for friends. If you have questions about how things work in the department or how to run an event you would like to see happen, feel free to reach out to me!”
+“Hi all! I’m a PhD student in AeroAstro’s LAE researching contrails via satellite-based remote sensing. As treasurer for both dREFS and GA^3 (the Graduate Student Association of Aeronautics and Astronautics) I mostly operate in the background, processing all our expenses. In my free time, I enjoy running all over Boston and Cambridge, playing guitar, and cooking for friends. If you have questions about how things work in the department or how to run an event you would like to see happen, feel free to reach out to me!”
 
 
 <details>
