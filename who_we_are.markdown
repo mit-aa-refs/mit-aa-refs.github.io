@@ -147,6 +147,16 @@ The AeroAstro dREFS are graduate students trained in conflict management. You ca
 
 “Hello! I am a third-year graduate student in AeroAstro, and my research focuses on operational improvements to make aviation more sustainable. Outside of research, I enjoy running, reading, exploring Boston, and (when I can) sailing and flying. I joined the dREFS recently to contribute to the sense of community within AeroAstro and to help make sure we all have the support we need to thrive here. I can chat about the challenges and wonders of the international student experience. Other than that, feel free to reach out to me about anything else as well!”
 
+### Sarah Fry
+<img style="float: right;" hspace="20" vspace="40" src="../images/sarahfry.png" width="350" alt="Sarah Fry" title="Sarah Fry">
+
+* 1st year in the Space Propulsion Lab (SPL)
+* Hometown: Redondo Beach, CA
+* Contact: [sarahfry@mit.edu](mailto:sarahfry@mit.edu)
+* Languages: English, Spanish (conversational)
+
+“Hello! I’m a first-year graduate student working on optimizing the charge-to-mass ratio of emitted particles in electric propulsion systems to expand spacecraft operational capabilities. Outside the lab, I enjoy rowing, practicing yoga, drawing and painting, reading philosophy and historical fiction, drinking copious amounts of tea, and traveling. Having navigated a change in advisors, I understand that graduate school can come with unexpected challenges, both professional and personal. I’m always happy to listen, share my experience, or offer support. Please feel free to reach out by email anytime—I’d love to connect!”
+
 ### Marlene Euchenhofer (Treasurer)
 <img style="float: right;" hspace="20" vspace="40" src="../images/euchmv.JPEG" width="350" alt="Marlene Euchenhofer" title="Marlene Euchenhofer">
 
